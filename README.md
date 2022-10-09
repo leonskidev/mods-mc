@@ -5,8 +5,6 @@
 | [AppleSkin]             | C/S?          | N/A                                   |
 | [BackSlot]              | C/S           | [Fabric API], [Cloth Config API]      |
 | [BetterF3]              | C             | [Fabric API]                          |
-| [Copperized]            | C/S           | N/A                                   |
-| [Copper Drops]          | C/S           | N/A                                   |
 | [FallingTree]           | C/S?          | [Fabric API]                          |
 | [ModMenu]               | C             | [Fabric API]                          |
 | [No Chat Reports]       | C?/S?         | N/A                                   |
@@ -59,15 +57,16 @@
 
 ## Items
 
-| Mod              | Client/Server | Libraries                                |
-| :--------------- | :------------ | :--------------------------------------- |
-| [Campanion]      | C/S           | [Fabric API], [Indium]*                  |
-| [Create]         | C/S           | [Fabric API]                             |
-| [CC: Restitched] | C/S           | N/A                                      |
-| [CC:C Bridge]    | C/S           | [Fabric API], [CC: Restitched], [Create] |
-| [Inmis]          | C/S           | [Fabric API]                             |
-| [SlotLink]       | C/S           | [Fabric API], [Fabric Language Kotlin]   |
-| [Teeny Coal]     | C/S           | N/A                                      |
+| Mod                | Client/Server | Libraries                                |
+| :----------------- | :------------ | :--------------------------------------- |
+| [Campanion]        | C/S           | [Fabric API], [Indium]*                  |
+| [Create]           | C/S           | [Fabric API]                             |
+| [CC: Restitched]   | C/S           | N/A                                      |
+| [CC:C Bridge]      | C/S           | [Fabric API], [CC: Restitched], [Create] |
+| [Copper Equipment] | C/S           | N/A                                      |
+| [Inmis]            | C/S           | [Fabric API]                             |
+| [SlotLink]         | C/S           | [Fabric API], [Fabric Language Kotlin]   |
+| [Teeny Coal]       | C/S           | N/A                                      |
 
 ## Sound
 
@@ -83,7 +82,7 @@
 | [Architectury API]       | N/A                                                  |
 | [Bad Packets]            | N/A                                                  |
 | [Cloth Config API]       | Allows for better configuration with [ModMenu]       |
-| [CTM Refabricated] | N/A |
+| [CTM Refabricated]       | N/A                                                  |
 | [Fabric API]             | N/A                                                  |
 | [Fabric Language Kotlin] | N/A                                                  |
 | [GeckoLib]               | N/A                                                  |
@@ -94,8 +93,6 @@
 [AppleSkin]: https://www.curseforge.com/minecraft/mc-mods/appleskin
 [BackSlot]: https://www.curseforge.com/minecraft/mc-mods/backslot
 [BetterF3]: https://www.curseforge.com/minecraft/mc-mods/betterf3
-[Copperized]: https://www.curseforge.com/minecraft/mc-mods/copperized
-[Copper Drops]: https://www.curseforge.com/minecraft/mc-mods/copper-drops
 [FallingTree]: https://www.curseforge.com/minecraft/mc-mods/falling-tree
 [ModMenu]: https://www.curseforge.com/minecraft/mc-mods/modmenu
 [No Chat Reports]: https://www.curseforge.com/minecraft/mc-mods/no-chat-reports
@@ -142,6 +139,7 @@
 [Create]: https://www.curseforge.com/minecraft/mc-mods/create-fabric
 [CC: Restitched]: https://www.curseforge.com/minecraft/mc-mods/cc-restitched
 [CC:C Bridge]: https://www.curseforge.com/minecraft/mc-mods/cccbridge
+[Copper Equipment]: https://www.curseforge.com/minecraft/mc-mods/copper-equipment
 [Inmis]: https://www.curseforge.com/minecraft/mc-mods/inmis
 [SlotLink]: https://www.curseforge.com/minecraft/mc-mods/slotlink
 [Teeny Coal]: https://www.curseforge.com/minecraft/mc-mods/teenycoal
