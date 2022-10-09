@@ -66,6 +66,7 @@
 | [CC: Restitched] | C/S           | N/A                                      |
 | [CC:C Bridge]    | C/S           | [Fabric API], [CC: Restitched], [Create] |
 | [Inmis]          | C/S           | [Fabric API]                             |
+| [SlotLink]       | C/S           | [Fabric API], [Fabric Language Kotlin]   |
 | [Teeny Coal]     | C/S           | N/A                                      |
 
 ## Sound
@@ -142,6 +143,7 @@
 [CC: Restitched]: https://www.curseforge.com/minecraft/mc-mods/cc-restitched
 [CC:C Bridge]: https://www.curseforge.com/minecraft/mc-mods/cccbridge
 [Inmis]: https://www.curseforge.com/minecraft/mc-mods/inmis
+[SlotLink]: https://www.curseforge.com/minecraft/mc-mods/slotlink
 [Teeny Coal]: https://www.curseforge.com/minecraft/mc-mods/teenycoal
 
 <!-- SOUND -->
