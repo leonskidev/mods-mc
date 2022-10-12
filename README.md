@@ -65,7 +65,6 @@
 | [Create]           | C/S           | [Fabric API]                             |
 | [CC: Restitched]   | C/S           | N/A                                      |
 | [CC:C Bridge]      | C/S           | [Fabric API], [CC: Restitched], [Create] |
-| [Copper Equipment] | C/S           | N/A                                      |
 | [Inmis]            | C/S           | [Fabric API]                             |
 | [SlotLink]         | C/S           | [Fabric API], [Fabric Language Kotlin]   |
 | [Teeny Coal]       | C/S           | N/A                                      |
@@ -143,7 +142,6 @@
 [Create]: https://www.curseforge.com/minecraft/mc-mods/create-fabric
 [CC: Restitched]: https://www.curseforge.com/minecraft/mc-mods/cc-restitched
 [CC:C Bridge]: https://www.curseforge.com/minecraft/mc-mods/cccbridge
-[Copper Equipment]: https://www.curseforge.com/minecraft/mc-mods/copper-equipment
 [Inmis]: https://www.curseforge.com/minecraft/mc-mods/inmis
 [SlotLink]: https://www.curseforge.com/minecraft/mc-mods/slotlink
 [Teeny Coal]: https://www.curseforge.com/minecraft/mc-mods/teenycoal
