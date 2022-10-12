@@ -5,10 +5,12 @@
 | [AppleSkin]             | C/S?          | N/A                                   |
 | [BackSlot]              | C/S           | [Fabric API], [Cloth Config API]      |
 | [BetterF3]              | C             | [Fabric API]                          |
+| [Couplings]             | C/S?          | N/A                                   |
 | [FallingTree]           | C/S?          | [Fabric API]                          |
 | [ModMenu]               | C             | [Fabric API]                          |
 | [No Chat Reports]       | C?/S?         | N/A                                   |
 | [Polymorph]             | C/S           | [Fabric API]                          |
+| [ReplayMod]             | C/S           | N/A                                   |
 | [Roughly Enough Items]  | C             | [Architectury API] [Cloth Config API] |
 | [ShulkerBoxTooltip]     | C             | [Fabric API]                          |
 | [What The Hell Is That] | C/S?          | [Fabric API], [Bad Packets]           |
@@ -93,10 +95,12 @@
 [AppleSkin]: https://www.curseforge.com/minecraft/mc-mods/appleskin
 [BackSlot]: https://www.curseforge.com/minecraft/mc-mods/backslot
 [BetterF3]: https://www.curseforge.com/minecraft/mc-mods/betterf3
+[Couplings]: https://www.curseforge.com/minecraft/mc-mods/couplings
 [FallingTree]: https://www.curseforge.com/minecraft/mc-mods/falling-tree
 [ModMenu]: https://www.curseforge.com/minecraft/mc-mods/modmenu
 [No Chat Reports]: https://www.curseforge.com/minecraft/mc-mods/no-chat-reports
 [Polymorph]: https://www.curseforge.com/minecraft/mc-mods/polymorph-fabric
+[ReplayMod]: https://www.replaymod.com/
 [Roughly Enough Items]: https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
 [ShulkerBoxTooltip]: https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
 [What The Hell Is That]: https://www.curseforge.com/minecraft/mc-mods/wthit
