@@ -43,7 +43,7 @@ Mods that alter the gameplay in some way.
 | [Farmer's Delight]         | C/S           |                                          |
 | [Illuminations]            | C             |                                          |
 | [Inmis]                    | C/S           | [Fabric API]                             |
-| [InmisAddon]               | C/S           | [Fabric API]                             |
+| [InmisAddon]               | C/S           | [Fabric API], [Trinkets]                 |
 | [Simple Voice Chat]        | C/S           |                                          |
 | [SlotLink]                 | C/S           | [Fabric API], [Fabric Language Kotlin]   |
 | [Sound Physics Remastered] | C             |                                          |
@@ -115,3 +115,4 @@ Mods that alter the gameplay in some way.
 [CTM Refabricated]: https://www.curseforge.com/minecraft/mc-mods/ctm-refabricated
 [Fabric API]: https://www.curseforge.com/minecraft/mc-mods/fabric-api
 [Fabric Language Kotlin]: https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
+[Trinkets]: https://www.curseforge.com/minecraft/mc-mods/trinkets
