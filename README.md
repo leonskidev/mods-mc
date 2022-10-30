@@ -44,6 +44,7 @@
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 - [Particle Rain](https://modrinth.com/mod/particle-rain)
 - [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
+- [Teeny Coal](https://modrinth.com/mod/teenycoal)
 
 ## Adventure
 
