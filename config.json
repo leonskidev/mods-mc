@@ -1,0 +1,321 @@
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "off-we-go",
+      "output_dir": "/home/leon/.minecraft/mods",
+      "game_version": "1.18.2",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "Adorn",
+          "identifier": {
+            "ModrinthProject": "E6FUtRJh"
+          }
+        },
+        {
+          "name": "Antique Atlas",
+          "identifier": {
+            "ModrinthProject": "wHODup9j"
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "Arcanus",
+          "identifier": {
+            "ModrinthProject": "zgaWtmrV"
+          }
+        },
+        {
+          "name": "Architectury API",
+          "identifier": {
+            "ModrinthProject": "lhGA9TYQ"
+          }
+        },
+        {
+          "name": "bad packets",
+          "identifier": {
+            "ModrinthProject": "ftdbN0KK"
+          }
+        },
+        {
+          "name": "Cammie's Minecart Tweaks",
+          "identifier": {
+            "ModrinthProject": "D2gIe1ZY"
+          }
+        },
+        {
+          "name": "CC: Restitched",
+          "identifier": {
+            "ModrinthProject": "eldBwa5V"
+          }
+        },
+        {
+          "name": "Chipped",
+          "identifier": {
+            "ModrinthProject": "BAscRYKm"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Continuity",
+          "identifier": {
+            "ModrinthProject": "1IjD5062"
+          }
+        },
+        {
+          "name": "Couplings",
+          "identifier": {
+            "ModrinthProject": "80ulerjA"
+          }
+        },
+        {
+          "name": "Crops Love Rain",
+          "identifier": {
+            "ModrinthProject": "cRci7UZp"
+          }
+        },
+        {
+          "name": "CTM Refabricated",
+          "identifier": {
+            "ModrinthProject": "syUFsyMr"
+          }
+        },
+        {
+          "name": "Dawn API",
+          "identifier": {
+            "ModrinthProject": "meZK2DCX"
+          }
+        },
+        {
+          "name": "EMI",
+          "identifier": {
+            "ModrinthProject": "fRiHVvU7"
+          }
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
+          }
+        },
+        {
+          "name": "EntityCulling",
+          "identifier": {
+            "ModrinthProject": "NNAgCjsB"
+          }
+        },
+        {
+          "name": "Exordium",
+          "identifier": {
+            "ModrinthProject": "DynYZEae"
+          }
+        },
+        {
+          "name": "Extra Alchemy",
+          "identifier": {
+            "ModrinthProject": "n0S5OkPo"
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "ModrinthProject": "Ha28R6CL"
+          }
+        },
+        {
+          "name": "Falling Leaves",
+          "identifier": {
+            "ModrinthProject": "WhbRG4iK"
+          }
+        },
+        {
+          "name": "Fastload",
+          "identifier": {
+            "ModrinthProject": "kCpssoSb"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "Idwtialsimmoedm",
+          "identifier": {
+            "ModrinthProject": "ad89WlWh"
+          }
+        },
+        {
+          "name": "ImmediatelyFast",
+          "identifier": {
+            "ModrinthProject": "5ZwdcRci"
+          }
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "Krypton",
+          "identifier": {
+            "ModrinthProject": "fQEb0iXm"
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "ModrinthProject": "hvFnDODi"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Memory Leak Fix",
+          "identifier": {
+            "ModrinthProject": "NRjRiSSD"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "More Culling",
+          "identifier": {
+            "ModrinthProject": "51shyZVL"
+          }
+        },
+        {
+          "name": "Nbt Crafting",
+          "identifier": {
+            "ModrinthProject": "18ztUZP5"
+          }
+        },
+        {
+          "name": "Pehkui",
+          "identifier": {
+            "ModrinthProject": "t5W7Jfwy"
+          }
+        },
+        {
+          "name": "Plasmo Voice",
+          "identifier": {
+            "ModrinthProject": "1bZhdhsH"
+          }
+        },
+        {
+          "name": "Realistic Sleep",
+          "identifier": {
+            "ModrinthProject": "ZPywkPEo"
+          }
+        },
+        {
+          "name": "Ruined Equipment",
+          "identifier": {
+            "ModrinthProject": "zetXCfSw"
+          }
+        },
+        {
+          "name": "ServerCore",
+          "identifier": {
+            "ModrinthProject": "4WWQxlQP"
+          }
+        },
+        {
+          "name": "ShulkerBoxTooltip",
+          "identifier": {
+            "ModrinthProject": "2M01OLQq"
+          }
+        },
+        {
+          "name": "Smooth Boot (Fabric)",
+          "identifier": {
+            "ModrinthProject": "FWumhS4T"
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "ModrinthProject": "H8CaAYZC"
+          }
+        },
+        {
+          "name": "Tinkerer's Smithing",
+          "identifier": {
+            "ModrinthProject": "RhVpNN5O"
+          }
+        },
+        {
+          "name": "ToolTipFix",
+          "identifier": {
+            "ModrinthProject": "2RKFTmiB"
+          }
+        },
+        {
+          "name": "Trinkets",
+          "identifier": {
+            "ModrinthProject": "5aaWibi9"
+          }
+        },
+        {
+          "name": "True Darkness",
+          "identifier": {
+            "ModrinthProject": "Ja7zPEaN"
+          }
+        },
+        {
+          "name": "Universal Ores",
+          "identifier": {
+            "ModrinthProject": "68kWHuUF"
+          }
+        },
+        {
+          "name": "WTHIT",
+          "identifier": {
+            "ModrinthProject": "6AQIaxuO"
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}
